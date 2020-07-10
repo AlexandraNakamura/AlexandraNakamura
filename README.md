@@ -1,6 +1,7 @@
 # Alexandra Nakamura
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlexandraNakamura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-nakamura/)](https://www.linkedin.com/in/alexandra-nakamura/)
+[![Gmail Badge](https://img.shields.io/badge/-designernakamura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:designernakamura@gmail.com)](mailto:designernakamura@gmail.com)
 
 
 ## Hi 👋, 
